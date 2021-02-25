@@ -4,7 +4,6 @@ Original author: Morgan McKinney 4/2020
 Contents:
 	shell.cc: Implementation of main and call_redirected().
 	Makefile: Builds shell executable.
-	README.txt: This file.
 	shell.h: Definition of command structure, and prototypes for parse and free commands.
 	parser.c: Implementation of parse_command and free_command.
 	tests/: Subdirectory containing test inputs, expected outputs, and helper commands.
