@@ -1,4 +1,6 @@
-Author: Morgan McKinney 4/2020
+README for Simple Shell
+Original author: Morgan McKinney 4/2020
+
 Contents:
 	shell.cc: Implementation of main and call_redirected().
 	Makefile: Builds shell executable.
@@ -26,4 +28,3 @@ References:
 	if (!from_script) { cerr << "shell> " << flush; }
 	also benefitted from discussions with Nich Kiem who suggested putting it
 	in the main while loop again to fix script command inputs.
-	 
