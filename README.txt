@@ -27,3 +27,4 @@ References:
 	if (!from_script) { cerr << "shell> " << flush; }
 	also benefitted from discussions with Nich Kiem who suggested putting it
 	in the main while loop again to fix script command inputs.
+	The parser.c, shell.h, and Makefile were all provided by Dr. Neil Moore.
